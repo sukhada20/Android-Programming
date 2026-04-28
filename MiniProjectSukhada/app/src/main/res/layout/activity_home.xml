@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvWelcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Sleep Monitor"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/primary"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/btnStartSleep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Sleep Tracking"
+        style="@style/CustomButtonStyle"
+        android:layout_marginBottom="12dp" />
+
+    <Button
+        android:id="@+id/btnSleepHistory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sleep History"
+        style="@style/CustomButtonStyle"
+        android:layout_marginBottom="12dp" />
+
+    <Button
+        android:id="@+id/btnStatistics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Statistics"
+        style="@style/CustomButtonStyle"
+        android:layout_marginBottom="12dp" />
+
+    <Button
+        android:id="@+id/btnProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Profile"
+        style="@style/CustomButtonStyle" />
+
+</LinearLayout>

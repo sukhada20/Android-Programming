@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sleep Monitor</string>
+    <string name="welcome_msg">Welcome to Sleep Monitor</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="start_tracking">Start Sleep Tracking</string>
+    <string name="history">Sleep History</string>
+    <string name="statistics">Statistics</string>
+    <string name="profile">Profile</string>
+    <string name="start_sleep">Start Sleep</string>
+    <string name="stop_sleep">Stop Sleep</string>
+    <string name="save_record">Save Record</string>
+    <string name="total_records">Total Records: %d</string>
+    <string name="avg_sleep">Average Sleep: %d hrs %d min</string>
+    <string name="duration_format">Duration: %d hrs %d min</string>
+    <string name="quality_format">Quality: %s</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="logout">Logout</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practical 3</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_start_service">Start Service</string>
+    <string name="btn_stop_service">Stop Service</string>
+    <string name="hint_username">User Name</string>
+    <string name="hint_password">Password</string>
+</resources>
